@@ -1,0 +1,43 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+header{
+    margin: 40px 50px;
+}
+
+.link-header{
+    font-weight: 600;
+    cursor: pointer;
+    margin-right: 50px;
+    text-decoration: none;
+    color: rgb(104, 104, 104);
+    font-size: larger;
+
+}
+#signup{
+    background-color: rgb(47, 187, 47);
+    color: white;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: larger;
+    font-weight: 600;
+}
+img{
+    margin-top: 163px;
+    margin-left: 121px;
+    display: inline-block;
+}
+div{
+    display: inline-block;
+}
+#signup:hover{
+    background-color: green;
+    animation: normal;
+}
+.link-header:hover{
+    color: black;
+}
